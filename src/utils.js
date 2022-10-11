@@ -1,0 +1,1 @@
+export const greating = ()=>{console.log('hello')}
